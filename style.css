@@ -1,0 +1,445 @@
+body{
+    margin: 0px;
+	padding: 0px;
+
+}
+.header{
+    width: 1280px;
+    height: 83px;
+    background-color:#e59090;
+}
+.logo img {
+	padding-top: 28px;
+	padding-bottom: 18px;
+	width: 200px;
+	padding-left: 65px;
+	float: left;
+}
+.nav-div {
+	padding-left: 464px;
+	padding-right: 65px;
+	position: relative;
+}
+.nav-ul {
+	display: inline-flex;
+	width: 677px;
+	padding-top: 13px;
+}
+.nav-ul li{
+    list-style-type: none;
+    font-family:Montserrat;
+    font-weight: bolder;
+}
+.nav-ul li a {
+        font-size: 20px;
+        text-decoration: none;
+        color: #fff;
+        padding: px;
+        padding: 28px;
+    }
+    .nav-ul li a:hover{
+        text-decoration: underline;
+    }
+  .nav-div img {
+        position: absolute;
+        width: 30px;
+        height: 31px;
+        margin-top: 27px;
+    }
+.intro-div {
+
+}
+.intro-img img{
+    width: 1280px;
+    height: 754px;
+    position: relative;
+}
+.intro-div h1 {
+	font-family: Montserrat;
+	position: absolute;
+	width: 688px;
+	height: 92px;
+	font-size: 108px;
+	color: #fff;
+	bottom: 0px;
+	top: 204px;
+	padding-left: 52px;
+}
+.intro-div p {
+	position: absolute;
+	font-size: 20px;
+    font-family: Montserrat;
+    top:431px;
+	bottom: 0px;
+	width: 426px;
+	height: 95px;
+	color: #fff;
+	margin-left: 52px;
+}
+.btn {
+	position: absolute;
+	top: 575px;
+	bottom: 0px;
+	background-color: #6db3ab;
+	margin-left: 52px;
+	height: 41px;
+	border: none;
+	border-radius: 20px;
+}
+.btn a {
+	font-family: Montserrat;
+	font-weight: bold;
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+    padding: 45px;
+}
+.btn:hover{
+background-color:#80f0e3;
+}
+
+.
+.body-1{
+
+}
+.product{
+
+}
+.product img{
+    width: 1280px;
+    height: 754px;
+    position: relative;
+}
+.product h1 {
+	position: absolute;
+	width: 1138px;
+	height: 64px;
+	bottom: 0px;
+	top: 1047px;
+	text-align: right;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 54px;
+	color: #2fb4ac;
+	clear: both;
+}
+.product p {
+	position: absolute;
+	width: 414px;
+	/* height: 95px; */
+	bottom: 0px;
+	top: 1190px;
+	/* float: right; */
+	color: #2fb4ac;
+	font-family: 'Montserrat' ,'Montserrat regular';
+	font-size: 20px;
+	/* text-align: left; */
+	left: 742px;
+	margin: 0px;
+}
+.btn-ii {
+	position: absolute;
+	left: 742px;
+	top: 1329px;
+	bottom: 0px;
+	background-color: #e59090;
+	height: 41px;
+	border: 0px;
+	border-radius: 20px;
+}
+.btn-ii a {
+font-family:Montserrat;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	padding: 45px;
+	
+
+}
+
+.menu{
+
+}
+.menu img{
+position:relative;
+width:1280px;
+height:870px;
+}
+.menu h1 {
+	position: absolute;
+	top: 1665px;
+	bottom: 0px;
+	left: 36%;
+	color: #fff;
+	font-family: Montserrat;
+	font-size: 54px;
+}
+.Special {
+	position: absolute;
+	top: 1939px;
+}
+.menui {
+	width: 238px;
+	float: left;
+	margin-left: 139px;
+}
+.menui img{
+	width: 238px;
+}
+.menui h3{
+color:#fff;
+font-family: Montserrat;
+font-weight: bold;
+width: 240px;
+text-align: center;
+}
+.menui p{
+color:#fff;
+font-family: Montserrat;
+width: 240px;
+text-align: center;
+}
+
+#Statistics img{
+	width: 1280px;
+	height: 870px;
+}
+
+/*stert*/
+.menu-iii{
+	position:relative;
+}
+.food-i{
+
+}
+.menu-iii img{
+	width: 1280px;
+	height: 754px;
+	
+}
+.text-item{
+	margin-left: 52px;
+
+}
+.text-item img {
+	width: 468px;
+	height: auto;
+	float: right;
+	margin-right: 129px;
+	position: absolute;
+	bottom: 0px;
+	top: 3500px;
+	left: 665px;
+}
+.text-item-2 {
+	padding-top: 111px;
+	width: 414px;
+	position: absolute;
+	top: 3497px;
+}
+.text-item-2 h1{
+	width: 414px;
+	height: 64px;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 54px;
+	color: #fff;
+
+}
+.text-item-2 p{
+	width: 414px;
+	color:#fff;
+	font-family: 'Montserrat' ,'Montserrat regular';
+	font-size: 20px;
+}
+.text-btn {
+	background-color: #e59090;
+	height: 41px;
+	border: 0px;
+	border-radius: 20px;
+	margin-top: 39px;
+	display: block;
+}
+
+.text-btn a{
+	text-decoration:none;
+	font-family:Montserrat;
+	color: #fff;
+	font-weight: bold;
+	padding: 45px;
+	margin-top: 12px;
+	
+}
+.text-btn:hover{
+	transition: 1s;
+background-color:#ee7474 ;
+}
+/*end*/
+
+.talk{
+}
+.backimg img{
+	position: relative;
+	width:1280px;
+}
+.talk-img{
+
+}
+.talk-img img {
+	position: absolute;
+	top: 4235px;
+	left: 518px;
+}
+.talk-text {
+	position: absolute;
+	top: 4468px;
+	left: 173px;
+}
+.talk-text h3 {
+	font-family: Montserrat;
+	width: 944px;
+	font-size: 35px;
+	text-align: center;
+	font-weight: normal;
+	color: #fff;
+}
+.talk-text p {
+	font-family: Montserrat;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 37px;
+}
+/*subscribe*/
+
+.subscribe img{
+	position: relative;
+	width: 1280px;
+}
+.subscribe-text{
+position: absolute;
+top:4939px;
+left: 227px;
+}
+.subscribe-text h1{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 54px;
+	text-align: center;
+}
+.subscribe-text p{
+	font-family: Montserrat;
+	color: #000;
+	text-align: center;
+	font-size: 28px;
+	width: 830px;
+}
+/*end*/
+#footer{
+	height: 688px;
+	width:1280px;
+	background-color:#777777;
+}
+.code-i {
+	width: 458px;
+	margin-left: 52px;
+	height: 260px;
+	float: left;
+}
+.code-content{
+	width: 314px;
+
+}
+.code-content img{
+width:312px;
+margin-top:246px;
+}
+.code-content p { 
+	font-family:Montserrat ;
+	width: 314px;
+	font-size: 16px;
+	margin-bottom: 44px;
+	color: #fff;
+}
+
+.about{
+width: 206px;
+margin-left: 620px;
+float: left;
+}
+.about h3{
+margin-top: 0px;
+font-family:Montserrat ;
+color: #fff;
+text-align: left;
+}
+.about ul{
+	padding: 0px;
+}
+.about ul li {
+	list-style-type: none;
+	padding-left: 0px;
+	padding-top: 8px;
+}
+.about ul li a{
+font-family:Montserrat ;
+text-decoration: none;
+color: #fff;
+}
+
+.services{
+	width: 206px;
+	float: left;
+	}
+	.services h3{
+	margin-top: 0px;
+	font-family:Montserrat ;
+	color: #fff;
+	text-align: left;
+	}
+	.services ul{
+		padding: 0px;
+	}
+	.services ul li {
+		list-style-type: none;
+		padding-left: 0px;
+		padding-top: 8px;
+	}
+	.services ul li a{
+	font-family:Montserrat ;
+	text-decoration: none;
+	color: #fff;
+	}
+
+	.other{
+		width: 206px;
+		float: left;
+		}
+		.other h3{
+		margin-top: 0px;
+		font-family:Montserrat ;
+		color: #fff;
+		text-align: left;
+		}
+		.other ul{
+			padding: 0px;
+		}
+		.other ul li {
+			list-style-type: none;
+			padding-left: 0px;
+			padding-top: 8px;
+		}
+		.other ul li a{
+		font-family:Montserrat ;
+		text-decoration: none;
+		color: #fff;
+		}
+		/*icon*/
+.icon {
+width: 235px;
+margin-left: 52px;
+		}
+.icon img{
+padding-left: 12px;
+clear: both;
+}
